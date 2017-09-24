@@ -2,7 +2,7 @@
 Cameron Knight
 Code based on k nearest neibors od the Machien learning series by Sentdex
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
-Description: my regression program
+Description: classification using skikit learn k-nearest neigbors
 """
 import numpy as np
 import pandas as pd

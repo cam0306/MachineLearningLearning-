@@ -2,7 +2,7 @@
 Cameron Knight
 Intro and data section od the Machien learning series by Sentdex
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
-Description: Basic introduction in data and linear regression learning
+Description: Basic introduction in data and linear regression learning on stoke data from quandl
 """
 import pandas as pd
 import quandl

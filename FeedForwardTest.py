@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+"""
+Author: Cameron Knight
+Description: simple 3 hidden layer feed forward network using tensorflow library on MNIST dataset
+"""
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
